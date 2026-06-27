@@ -1,4 +1,4 @@
-# cs3110-project
+# Ocaml Imposter Game
 Team 99: The Sorcerer Camels
 Hannah Jacob - htj7
 Sanaa Bhorkar - sb2759
